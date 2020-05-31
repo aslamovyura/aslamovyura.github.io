@@ -1,1 +1,0 @@
-# TMS-Aslamov-CV
