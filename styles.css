@@ -156,3 +156,7 @@ td {
 hr {
     margin-bottom: -10px;
 }
+
+.about-text {
+    text-align: center;
+}
